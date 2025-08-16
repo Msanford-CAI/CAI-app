@@ -1,0 +1,8 @@
+
+streamlit
+openai
+llama-index
+docx2txt           # .docx support
+pdfplumber         # PDF support
+openpyxl           # Excel .xlsx support
+pandas             # Table parsing for Excel and CSV
